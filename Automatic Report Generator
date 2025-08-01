@@ -1,0 +1,25 @@
+How It Works:
+
+Reads Multiple Reports:
+The program loads six different Excel reports related to sales, profit & loss, inventory, employee timesheets, customer interactions, and project budgets.
+
+Filters and Analyzes Key Metrics:
+It applies specific business rules to each dataset to highlight important insights, such as:
+
+Sales greater than 100 units in the East and South regions.
+
+Profit & Loss data sorted by highest amounts.
+
+Inventory items with stock below reorder levels.
+
+Employees working overtime (more than 40 hours per week).
+
+Customer interactions marked as “Follow up” within the last 30 days.
+
+Projects that have used more than 90% of their allocated budget.
+
+Generates a Single Summary Excel Report:
+The filtered and summarized data is compiled into separate sheets within a single Excel file named management_summary_report.xlsx.
+
+Simple User Interface:
+A straightforward GUI with a button allows users to generate the report with one click. Success or error messages are displayed via popup windows.
